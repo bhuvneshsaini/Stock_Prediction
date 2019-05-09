@@ -1,2 +1,2 @@
-# Stock-Price-Prediction-using-Keras-and-Recurrent-Neural-Networ
+# Stock_Price_Prediction_using_Keras_and_Recurrent_Neural_Network
 Stock Price Prediction case study using Keras
